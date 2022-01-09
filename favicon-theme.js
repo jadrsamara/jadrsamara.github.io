@@ -23,6 +23,7 @@ function setupIcons() {
       setLight();
     }
   }
+
   matcher.addListener(onUpdate);
   onUpdate();
 }
